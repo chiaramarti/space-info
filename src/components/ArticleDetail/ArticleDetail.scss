@@ -1,0 +1,26 @@
+/* ArticleDetail.scss */
+.article-detail {
+    max-width: 800px;
+    margin: 0 auto;
+  
+    img {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 12px;
+    }
+  
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 8px;
+    }
+  
+    p {
+      color: #666;
+    }
+  
+    a {
+      display: block;
+      margin-top: 20px;
+    }
+  }
+  
